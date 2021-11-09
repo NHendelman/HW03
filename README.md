@@ -13,15 +13,15 @@ You can type in the `search_term` the specific item you want information on, and
     
 **The command lines to receive my specific json files look like this:**
 
-For heelys.json:
+For hammer.json:
 
     python3 ebay.dl 'hammer'
     
-For converse.json:
+For screw.json:
 
     python3 ebay.dl 'screw'
     
-For high heels.json:
+For smart watch.json:
 
     python3 ebay.dl 'smart watch'
     
